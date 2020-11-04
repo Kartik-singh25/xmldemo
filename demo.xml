@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This defines the verson of XML File-->
+<te><!--This is the root tag-->
+<student>
+	<regno>RA1711003011310</regno>
+	<name>Kartik Singh</name>
+	<batch>2</batch>
+	<cgpa>9.33</cgpa>
+	<campus>KTR</campus>
+</student>
+<student>
+	<regno>RA1711003011058</regno>
+	<name>Rishika Kapoor</name>
+	<batch>2</batch>
+	<cgpa>9.22</cgpa>
+	<campus>KTR</campus>
+</student>
+<student>
+	<regno>RA1711003011272</regno>
+	<name>Kuldeep Singh</name>
+	<batch>2</batch>
+	<cgpa>9.28</cgpa>
+	<campus>KTR</campus>
+</student>
+<student>
+	<regno>RA1711003011284</regno>
+	<name>Apoorv Gupta</name>
+	<batch>2</batch>
+	<cgpa>8.9</cgpa>
+	<campus>KTR</campus>
+</student>
+<student>
+	<regno>RA1711003011270</regno>
+	<name>Sanchit Rastogi</name>
+	<batch>2</batch>
+	<cgpa>9.02</cgpa>
+	<campus>KTR</campus>
+</student>
+<student>
+	<regno>RA1711003011306</regno>
+	<name>Mohammad Ryaan</name>
+	<batch>2</batch>
+	<cgpa>8.2</cgpa>
+	<campus>KTR</campus>
+</student>
+</te>
